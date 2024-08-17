@@ -8,7 +8,7 @@ The main aim of this project is to explore the concept of _static website genera
 
 ## License
 
-[MIT License](https://github.com/sys256/vitepress-practice?tab=readme-ov-file#)
+[MIT License](https://github.com/sys256/vitepress-practice/blob/main/LICENSE)
 
 ## Contact
 
