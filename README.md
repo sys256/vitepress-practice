@@ -21,7 +21,7 @@ npm run docs:dev
 ## Dev commans
 
 - **`npm run docs:dev`**\
-A Vite fejlesztői hot-reload HTTP szerver indítása.
+A Vite fejlesztői hot-reload HTTP szerver indítása a forrásfájlokból dinamikusan előállított tartalommal.
 
 - **`npm run docs:build`**\
 Új build generálása a forrásfájlokból.
