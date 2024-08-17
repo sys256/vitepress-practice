@@ -6,6 +6,18 @@
 
 The main aim of this project is to explore the concept of _static website generation_ and improve my skills. Although some of the code may be useful, it may contain incomplete features, misinterpretations, bugs, or non-optimized code. Please keep in mind that the focus here is on learning rather than creating a polished product.
 
+## Up and running
+
+A repository klónozása a lokális fejlesztői gépre, a működéshez szükséges npm csomagok telepítése és a Vite hot-reload server indítása:
+
+```console
+cd ~
+git clone git@github.com:sys256/vitepress-practice.git
+cd vitepress-practice
+npm install
+npm run docs:dev
+```
+
 ## License
 
 [MIT License](https://github.com/sys256/vitepress-practice/blob/main/LICENSE)
