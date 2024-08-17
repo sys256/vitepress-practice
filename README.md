@@ -32,6 +32,8 @@ TypeScript támogatást és a projekt root helyett a `./docs` directory használ
 - `markdown-examples.md`
 - `api-examples.md`
 
+A téma beállításai a `.vitepress/config.js` fájlban találhatók.
+
 ## Dev commans
 
 - `npm run docs:dev`\
