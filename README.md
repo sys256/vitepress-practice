@@ -18,15 +18,29 @@ npm install
 npm run docs:dev
 ```
 
+## Settings
+
+I created the scaffolding of the project with the command below:
+
+```console
+npx vitepress init
+```
+
+TypeScript támogatást és a projekt root helyett a `./docs` directory használatát nem kértem. A _Default Theme_ kinézettel létrehozott honlap egy főoldalt és két további mintaoldalt tartalmaz:
+
+- `index.md`
+- `markdown-examples.md`
+- `api-examples.md`
+
 ## Dev commans
 
-- **`npm run docs:dev`**\
+- `npm run docs:dev`\
 A Vite fejlesztői hot-reload HTTP szerver indítása a forrásfájlokból dinamikusan előállított tartalommal.
 
-- **`npm run docs:build`**\
+- `npm run docs:build`\
 Új build generálása a forrásfájlokból.
 
-- **`npm run docs:preview`**\
+- `npm run docs:preview`\
 A Vite szerver futtatása a build által létrehozott tartalommal.
 
 ## License
