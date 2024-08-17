@@ -18,6 +18,17 @@ npm install
 npm run docs:dev
 ```
 
+## Dev commans
+
+- **`npm run docs:dev`**\
+A Vite fejlesztői hot-reload HTTP szerver indítása.
+
+- **`npm run docs:build`**\
+Új build generálása a forrásfájlokból.
+
+- **`npm run docs:preview`**\
+A Vite szerver futtatása a build által létrehozott tartalommal.
+
 ## License
 
 [MIT License](https://github.com/sys256/vitepress-practice/blob/main/LICENSE)
